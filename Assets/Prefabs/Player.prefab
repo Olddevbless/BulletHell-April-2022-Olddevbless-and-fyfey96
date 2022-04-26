@@ -370,7 +370,6 @@ GameObject:
   m_Component:
   - component: {fileID: 648488361628795822}
   - component: {fileID: 8433991646635403965}
-  - component: {fileID: 5521349686145687617}
   - component: {fileID: 802664724870649376}
   - component: {fileID: 322103030571601}
   - component: {fileID: 537025109}
@@ -411,20 +410,6 @@ CapsuleCollider:
   m_Height: 4.5
   m_Direction: 1
   m_Center: {x: 0, y: 0.2, z: 0.1}
---- !u!64 &5521349686145687617
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2882153821835868199}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 4
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: 0}
 --- !u!114 &802664724870649376
 MonoBehaviour:
   m_ObjectHideFlags: 0
